@@ -9,7 +9,7 @@
 
 * <img src="https://cdn.discordapp.com/emojis/1124845167866806312.gif" width="16"/> Soy desarrollador de mods de Minecraft
 * 🌱 Tengo 16 años
-* 💻 Actualmente esoty aprendiendo **Java, JS, HTML, Y MAS**
+* 💻 Actualmente estoy aprendiendo **Java, JS, HTML, Y MAS**
 * 🌐 Más información sobre mi en [xplix.xo.je](https://xplix.xo.je)
   
 <hr/>
